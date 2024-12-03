@@ -1,6 +1,3 @@
 ---
-title: Welcome
-layout: default
+rlayout: home
 ---
-
-Hello, Minima!

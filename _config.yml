@@ -1,2 +1,9 @@
-title: Zarizz Blog
+title: ZARIZZ
 theme: minima
+author:
+  name: zarizz 
+  email: zeming.zheng00@gmail.com
+header_pages:
+  - tags.md
+  - categories.md
+  - about.md
