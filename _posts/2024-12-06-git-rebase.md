@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Git rebase 
-categories: Git
-tags: ["协同开发"]
+categories: 开发工具
+tags: ["Git"]
 ---
 
 git rebase 两个常见的用法：
